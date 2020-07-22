@@ -7,11 +7,19 @@ intents:
   - mood_unhappy
   - bot_challenge
   - tired
-  - hot
+  - far
+  - coffee_maker
+  - color_change
+  - transform
+  - contact
+  - new
+  - buy
+  - direction
+  - online
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "I'm up and running! How may I help you?"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
@@ -30,10 +38,34 @@ responses:
   - text: "I am a bot, powered by Rasa."
 
   utter_tired:
-  - text: "You want coffee?"
+  - text: "Hmm I see, so quick trip to Starcoin?"
   
-  utter_hot:
-  - text: "Have a cold one!"
+  utter_far:
+  - text: "Make it on your own then!"
+
+  utter_coffeemaker:
+  - text: "There you go..."
+
+  utter_colorchange:
+  - text: "Okey, how is that?"
+
+  utter_transform:
+  - text: "Is it any better?"
+
+  utter_contact:
+  - text: "Here is the link of an invitation... "
+ 
+  utter_new:
+  - text: "Yes do you like it?"
+ 
+  utter_buy:
+  - text: "Buy it online or asking for directions?"
+
+  utter_direction:
+  - text: "Here is the closes distributor which has stock..."
+
+  utter_online:
+  - text: "Here is a link for the product..."
  
 
 

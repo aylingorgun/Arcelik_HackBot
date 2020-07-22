@@ -34,6 +34,46 @@
 * tired
   - utter_tired
 
-## hot path
-* hot
-  - utter_hot
+## far path
+* far
+  - utter_far
+
+## coffee maker path
+* coffee_maker
+  - utter_coffeemaker
+
+## color change path
+* color_change
+  - utter_colorchange
+
+## transform path
+* transform
+  - utter_transform
+
+## contact path
+* contact
+  - utter_contact
+
+## new path
+* new
+  - utter_new
+
+## buy path
+* buy
+  - utter_buy
+
+## direction path
+* direction
+  - utter_direction
+
+## online path
+* online
+  - utter_online
+
+
+
+
+
+
+
+

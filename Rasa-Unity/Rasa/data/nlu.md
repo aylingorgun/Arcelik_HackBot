@@ -56,13 +56,57 @@
 - am I talking to a human?
 
 ## intent:tired
-- Tired
-- Sleepy
-- Yawning
+- tired
+- sleepy
+- yawning
+- hackathon
 
-## intent: hot
-- Hot
-- Too hot
-- Weather is hot
+## intent:far
+- far
+- distant
+
+## intent:coffee_maker
+- coffee maker
+- expresso machine
+- drip pot
+- coffepot
+
+## intent:color_change
+- color
+- change
+
+## intent:transform
+- turn
+- see
+
+## intent:contact
+- [roommate] (link)
+- [friend] (link)
+- [share] (link)
+- [ask] (link)
+- [opinion] (link)
+
+## intent:new 
+- new
+- extra
+
+## intent:buy
+- purchase
+- buy
+
+## intent:online
+- [online] (link)
+
+## intent:direction
+- [direction] (distributor)
+- [on site] (distributor)
+
+
+
+
+
+
+
+
 
 
