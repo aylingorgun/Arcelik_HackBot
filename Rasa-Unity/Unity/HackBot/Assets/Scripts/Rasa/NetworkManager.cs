@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 
+
 // A class to help in creating the Json object to be sent to the rasa server
 public class PostMessageJson {
     public string message;
@@ -36,15 +37,26 @@ public class NetworkManager : MonoBehaviour {
     public GameObject cube;
     public Renderer cubeRenderer;
 
+    public GameObject conversation;
+
+    
     void start(){
         cubeRenderer = cube.GetComponent<Renderer>();
+        conversation.transform.position = new Vector3(0.0f, 0.0f, 0.0f);
     }
-
+    
     void update(){
-        if(Username_field.text.ToString() == "red")
-            cubeRenderer.material.SetColor("_Color", Color.red);
+        if (Input.GetKeyDown("space"))
+        {
+            conversation.transform.position += new Vector3(0.0f, 72.5f, 0.0f);
+        }
     }
 
+    public void moveUp(){
+        conversation.transform.position += new Vector3(0.0f, 72.5f, 0.0f);
+    }
+
+    /*
     public void SendMessageToRasa () {
         // Create a json object from user message
         PostMessageJson postMessage = new PostMessageJson {
@@ -94,5 +106,6 @@ public class NetworkManager : MonoBehaviour {
                 }
             }
         }
-    }
+        
+    }*/
 }

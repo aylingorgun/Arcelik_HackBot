@@ -27,7 +27,6 @@ public class ARTapToPlace : MonoBehaviour
         touchPosition = default;
         return false;
     }
-
     void Update()
     {
         if(!TryGetTouchPosition(out Vector2 touchPosition))
@@ -38,8 +37,15 @@ public class ARTapToPlace : MonoBehaviour
             
             if(spawnedObject == null){
                 spawnedObject = Instantiate(gameObjectToInstantiate, hitPose.position, hitPose.rotation);
+                spawnedObject.GetComponentInChildren<Renderer>().material.color = Color.black;
             } else {
+                spawnedObject.transform.Rotate(0.0f, 90.0f, 0.0f, Space.World);
                 spawnedObject.transform.position = hitPose.position;
+
+                if(spawnedObject.GetComponentInChildren<Renderer>().material.color == Color.black)
+                    spawnedObject.GetComponentInChildren<Renderer>().material.color = Color.red;
+                else
+                    spawnedObject.GetComponentInChildren<Renderer>().material.color = Color.black;
             }
         }
     }
