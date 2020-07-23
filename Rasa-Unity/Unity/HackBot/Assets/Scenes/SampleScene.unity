@@ -205,10 +205,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.87999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00012207031
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: Quick trip to Starcoin?
+      value: Bu modele ne dersin?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538036904333, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -454,7 +469,22 @@ PrefabInstance:
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: Hello, you there?
+      value: 'Merhaba! '
+      objectReference: {fileID: 0}
+    - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
@@ -465,10 +495,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.87999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00012207031
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: Make your own coffee then.
+      value: "Bunu nas\u0131l buldun?"
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538036904333, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -749,14 +789,14 @@ RectTransform:
   m_GameObject: {fileID: 217329344}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 9.308327, y: 9.308327, z: 9.308327}
+  m_LocalScale: {x: 6.803177, y: 6.803177, z: 6.803177}
   m_Children: []
   m_Father: {fileID: 2072057111}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 127}
+  m_AnchoredPosition: {x: 0, y: 97}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &217329346
@@ -867,10 +907,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.87999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00012207031
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: I'm up an running! Hbu?
+      value: "Merhaba, sana nas\u0131l yard\u0131mc\u0131 olabilirim?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538036904333, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -1177,7 +1232,17 @@ PrefabInstance:
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: Way too far!
+      value: "Ba\u015Fka rengi var m\u0131 acaba?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
@@ -1188,15 +1253,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.87999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00012207031
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: 'Here is an invitation #invite-123'
+      value: "Ortalama 2-3 g\xFCn i\xE7erisinde."
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 11
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -1524,17 +1599,27 @@ PrefabInstance:
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: 'Guest: We buyin'' new stuff eh?'
+      value: "Te\u015Fekk\xFCrler."
       objectReference: {fileID: 0}
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 11
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_FontData.m_MinSize
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
@@ -1545,10 +1630,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.87999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00012207031
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: How's that?
+      value: "Online sipari\u015F mi ma\u011Faza teslimi mi tercih edersin?"
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -1558,6 +1653,11 @@ PrefabInstance:
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538036904333, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
@@ -1928,10 +2028,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: UserBubble (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1352769590393542828, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: Online pls.
+      value: "Puan toplamak i\xE7in etraf\u0131na bakmay\u0131 unutma! \u0130yi g\xFCnler. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
@@ -2055,7 +2175,17 @@ PrefabInstance:
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: Do you have other colors?
+      value: Almak istiyorum.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
@@ -2179,7 +2309,17 @@ PrefabInstance:
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: Turn it around pls.
+      value: "Online l\xFCtfen."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
@@ -2341,10 +2481,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.87999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00012207031
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: Sure.
+      value: "Al\u0131\u015Fveri\u015Fini buradan tamamlayabilirsin: arcelik.com.tr"
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -2354,6 +2504,11 @@ PrefabInstance:
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538036904333, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
@@ -2577,19 +2732,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.87999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00012207031
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: 'Here you go: https://www.arcelik.com.tr/'
+      value: "Puan toplamak i\xE7in etraf\u0131na bakmay\u0131 unutma! \u0130yi g\xFCnler."
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 12
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538036904333, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
@@ -2660,7 +2830,7 @@ PrefabInstance:
     - target: {fileID: 7313331538588377750, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2380
+      value: -2260
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538588377750, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -2711,19 +2881,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.87999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00012207031
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: There you go https://www.arcelik.com.tr/
+      value: "10 fincana kadar kahve yaparken  g\xFC\xE7ten tasarruf edebilirsin!"
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 11
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538036904333, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
@@ -2894,8 +3079,8 @@ RectTransform:
   - {fileID: 458364034}
   - {fileID: 1789116033}
   - {fileID: 2002646386}
-  - {fileID: 666292679}
   - {fileID: 1485437496}
+  - {fileID: 666292679}
   - {fileID: 1356309074}
   - {fileID: 27859491}
   m_Father: {fileID: 1207409701}
@@ -3214,7 +3399,22 @@ PrefabInstance:
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: Tired.
+      value: "B\xFCt\xE7eme uygun kahve makinesi ar\u0131yorum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
@@ -3255,8 +3455,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 1, y: 396}
-  m_SizeDelta: {x: 726.3, y: 269.5}
+  m_AnchoredPosition: {x: 1, y: 374}
+  m_SizeDelta: {x: 726.3, y: 275.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1710119735
 MonoBehaviour:
@@ -3271,7 +3471,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Content: {fileID: 1370639141}
-  m_Horizontal: 1
+  m_Horizontal: 0
   m_Vertical: 1
   m_MovementType: 1
   m_Elasticity: 0.1
@@ -3331,10 +3531,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.87999725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00012207031
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: Yes you like it?
+      value: Kahve makinesi makinesi kahvesiz gitmez!
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -3344,6 +3554,11 @@ PrefabInstance:
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538036904333, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
@@ -3537,7 +3752,7 @@ PrefabInstance:
     - target: {fileID: 1352769590104162067, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 1352769590104162067, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
@@ -3562,7 +3777,7 @@ PrefabInstance:
     - target: {fileID: 1352769590104162067, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2020
+      value: -2140
       objectReference: {fileID: 0}
     - target: {fileID: 1352769590104162067, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
@@ -3612,7 +3827,17 @@ PrefabInstance:
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: Let's buy it!
+      value: "Te\u015Fekk\xFCr ederim."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
@@ -3748,12 +3973,12 @@ PrefabInstance:
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: Show me some coffee maker options.
+      value: "G\xFCzel g\xF6r\xFCn\xFCyor. Biraz daha detay verebilir misin?"
       objectReference: {fileID: 0}
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 12
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
@@ -3764,6 +3989,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FontData.m_BestFit
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
@@ -3821,19 +4056,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1370639141}
     m_Modifications:
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848597154428341267, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Text
-      value: Online or want directions?
+      value: "Puanlar\u0131n sayesinde Migros'tan 150gr kahveni \xFCcretsiz alabilirsin!"
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 12
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061049492271533618, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_FontData.m_BestFit
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538036904333, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
@@ -3879,7 +4129,7 @@ PrefabInstance:
     - target: {fileID: 7313331538588377750, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538588377750, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -3904,7 +4154,7 @@ PrefabInstance:
     - target: {fileID: 7313331538588377750, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2140
+      value: -2020
       objectReference: {fileID: 0}
     - target: {fileID: 7313331538588377750, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
@@ -3944,6 +4194,11 @@ PrefabInstance:
     - target: {fileID: 7313331538588377750, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
         type: 3}
       propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7870666856591497390, guid: 3cdd1a985afa1134eb3cb5cb885d5a84,
+        type: 3}
+      propertyPath: m_CullTransparentMesh
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4030,7 +4285,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 259715464}
   m_Direction: 2
   m_Value: 1.0000001
-  m_Size: 0.07652337
+  m_Size: 0.078227036
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4203,12 +4458,22 @@ PrefabInstance:
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_Text
-      value: Nice can we ask to my friend?
+      value: "Ne zaman elime ula\u015F\u0131r?"
       objectReference: {fileID: 0}
     - target: {fileID: 1538576165478333704, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
         type: 3}
       propertyPath: m_FontData.m_BestFit
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.5100021
+      objectReference: {fileID: 0}
+    - target: {fileID: 5598626952383760911, guid: 18d9d064aa06631408c5db1e0fdb0fa0,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.918911
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18d9d064aa06631408c5db1e0fdb0fa0, type: 3}
